@@ -44,7 +44,6 @@ public class RandomCrazyEightsPlayer {
 
     private Card drawCard() {
         // Simulate drawing a card from the deck
-        // Add your logic here to draw a card from the deck or any other source
         // For simplicity, let's assume we generate a random card
 
         String[] suits = { "Hearts", "Diamonds", "Clubs", "Spades" };
